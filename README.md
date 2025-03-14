@@ -8,7 +8,7 @@ Sudoku Corner is a clean, intuitive Sudoku game with multiple difficulty levels,
 
 ## Support
 
-If you need assistance with the Sudoku Corner app, please visit our [support page](https://koefoed.github.io/sudoku-support/) or contact us directly at s.koefoed95@gmail.com.
+If you need assistance with the Sudoku Corner app, please visit our [support page](https://simon-koefoed.github.io/sudoku-support/) or [submit an issue](https://github.com/Simon-Koefoed/sudoku-support/issues) on this repository.
 
 ## Features
 
